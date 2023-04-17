@@ -1,12 +1,12 @@
 <!--
 **MariaRiosNavarro/MariaRiosNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
- <img src="palette2.jpg" alt="Palette long Picture" height="30px"/>
+ <img src="palette2.jpg" alt="Palette long Picture" height="20px"/>
 </div>
 
 
 <div align="center">
-    <h1>Maria Rios Navarro</h1>
+    <h2>Maria Rios Navarro</h2>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 	
 	
 <div align="center">
- <img src="MariaRiosNavarro_Klein.jpg" alt="Image of Maria" width="200px" />
+ <img src="MariaRiosNavarro_Klein.jpg" alt="Image of Maria" width="100px" />
 </div>
 
 <div align="center" height="100px">
@@ -69,7 +69,7 @@
 
 
 <div align="center">
- <img src="palette2.jpg" alt="Palette long Picture" height="30px"/>
+ <img src="palette2.jpg" alt="Palette long Picture" height="20px"/>
 </div>
 
 
