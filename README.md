@@ -1,12 +1,26 @@
 <!--
 **MariaRiosNavarro/MariaRiosNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<div align="center">
+ <img src="palette2.jpg" alt="Palette long Picture" height="30px"/>
+</div>
+
 
 <div align="center">
-    <h1>Hi there Maria Rios Navarro👋 </h1>
+    <h1>Maria Rios Navarro</h1>
 </div>
 
 <div align="center">
- <img src="MariaRiosNavarro_Klein.jpg" alt="Marias Foto" width="200px" />
+    <a href="mailto:info@propscode.com">E-Mail 
+</div>
+	
+
+
+	
+
+	
+	
+<div align="center">
+ <img src="MariaRiosNavarro_Klein.jpg" alt="Image of Maria" width="200px" />
 </div>
 
 <div align="center" height="100px">
@@ -45,6 +59,8 @@ I recently finished my freecodecamp certificate.
 ![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
 
 
-
+<div align="center">
+ <img src="palette2.jpg" alt="Palette long Picture" height="30px"/>
+</div>
 
 
