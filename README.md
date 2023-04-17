@@ -1,5 +1,5 @@
 ### Hi there Maria Rios Navarro👋
-![Maria Rios Navarro Foto](MariaRiosNavarro.jpg)
+![Maria Rios Navarro Foto](MariaRiosNavarro_Klein.jpg)
 
 
 
