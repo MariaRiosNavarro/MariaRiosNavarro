@@ -48,15 +48,17 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>
 	
+
+<hr hidden>	
 	
 	
 - I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
 <hr>
 
-I recently finished my freecodecamp certificate.
+- I recently finished my freecodecamp certificate.
 
-[Free Code Camp Certification](https://freecodecamp.org/certification/Propscode/responsive-web-design)
+<div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
 
 
 <hr>
