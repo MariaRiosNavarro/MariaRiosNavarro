@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript...and new technologies 
 - 😄 Pronouns: She/her
 
-![Maria Rios Navarro Foto](MariaRiosNavarro_Klein.jpg){:height="100px"}
+![Maria Rios Navarro Foto](MariaRiosNavarro_Klein.jpg =200x)
 
 - I love gardening:
 
-![Tomato Foto](https://de.wikipedia.org/wiki/Tomate#/media/Datei:Tomatoes-on-the-bush.jpg)
+![Tomato Foto](https://de.wikipedia.org/wiki/Tomate#/media/Datei:Tomatoes-on-the-bush.jpg =200x)
