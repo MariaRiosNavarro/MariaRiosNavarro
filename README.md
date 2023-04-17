@@ -1,8 +1,9 @@
+<!--
+**MariaRiosNavarro/MariaRiosNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 <div align="center">
     <h1>Hi there Maria Rios Navarro👋 </h1>
 </div>
-<!--
-**MariaRiosNavarro/MariaRiosNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
  <img src="MariaRiosNavarro_Klein.jpg" alt="Marias Foto" width="200px" />
@@ -37,7 +38,7 @@ I recently finished my freecodecamp certificate.
 [Free Code Camp Certification](https://freecodecamp.org/certification/Propscode/responsive-web-design)
 
 
-
+<hr>
 
 
 
