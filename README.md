@@ -12,11 +12,14 @@
 
 
 
+
 - I enjoy cooking, gardening, being creative and learning.
+
+
 
  <img src="MariaRiosNavarro_Klein.jpg" alt="Marias Foto" width="200px"/>
 
-
+![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
 
 
 
