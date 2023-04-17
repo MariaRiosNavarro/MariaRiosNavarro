@@ -4,7 +4,7 @@
 	
 	
 - 🔭 I'm currently working in film but I'm also interested in new technologies and have been learning about web development myself for a couple of years.
-- 🌱 I’m currently learning HTML, CSS, Javascript...and new technologies 
+- 🌱 I’m currently learning **HTML, CSS, Javascript...** and new technologies 
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
