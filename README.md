@@ -12,7 +12,7 @@
 
 I recently finished my freecodecamp certificate.
 
-![Free Code Camp Certification](https://freecodecamp.org/certification/Propscode/responsive-web-design)
+(https://freecodecamp.org/certification/Propscode/responsive-web-design)
 
 - I enjoy cooking, gardening, being creative and learning.
 
