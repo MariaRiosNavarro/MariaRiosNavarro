@@ -29,7 +29,7 @@
 	
 -  As a filmmaker (stand by props) with a great passion for new technological developments, I am looking for new challenges in the field of web development.  I am a dedicated, creative and self-motivated career changer. 
 
-- I already have knowledge in HTML, CSS and JavaScript, which I have continuously developed in my spare time. Currently, I am completing the web development bootcamp at "neue Fische" to further deepen my knowledge and skills.
+- I already have knowledge in HTML, CSS and JavaScript, which I have continuously developed in my spare time. Currently, I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> to further deepen my knowledge and skills.
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript...** and new technologies&tools: 
 
@@ -48,7 +48,9 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>
 	
-I speak fluent German and English. Spanish and Catalan are my mother tongues.
+	
+	
+- I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
 <hr>
 
