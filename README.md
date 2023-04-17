@@ -6,9 +6,13 @@
 - 🔭 I'm currently working in film but I'm also interested in new technologies and have been learning about web development myself for a couple of years.
 - 🌱 I’m currently learning HTML, CSS, Javascript...and new technologies 
 - 😄 Pronouns: She/her
-
-![Maria Rios Navarro Foto](MariaRiosNavarro_Klein.jpg =200x)
-
 - I love gardening:
 
-![Tomato Foto](https://de.wikipedia.org/wiki/Tomate#/media/Datei:Tomatoes-on-the-bush.jpg =200x)
+![Tomato Foto](https://de.wikipedia.org/wiki/Tomate#/media/Datei:Tomatoes-on-the-bush.jpg)
+
+
+Me:
+<img src="MariaRiosNavarro_Klein.jpg" alt="Marias Foto" width="200px"/>
+
+
+
