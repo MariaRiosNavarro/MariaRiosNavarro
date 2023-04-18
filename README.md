@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <a href="mailto:info@propscode.com">E-Mail 
+	<a href="mailto:info@propscode.com">E-Mail</a> 
 </div>
 	
 
