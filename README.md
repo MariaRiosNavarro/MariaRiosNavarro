@@ -34,7 +34,6 @@
 
 
 
-
 - 🔥 I’m currently learning **HTML, CSS, Javascript...** and new technologies&tools: 
 
 
