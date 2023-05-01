@@ -31,6 +31,14 @@
 
 - 💻 I already have knowledge in HTML, CSS and JavaScript, which I have continuously developed in my spare time. Currently, I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> to further deepen my knowledge and skills.
 
+
+
+<div align="center">
+ <img src="gifttest.png" alt="Image of Maria" width="200px" />
+</div>
+
+
+
 - 🔥 I’m currently learning **HTML, CSS, Javascript...** and new technologies&tools: 
 
 
