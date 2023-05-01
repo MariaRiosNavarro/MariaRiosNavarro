@@ -34,7 +34,7 @@
 
 
 <div align="center">
- <img src="gifttest.png" alt="Image of Maria" width="200px" />
+ <img src="gifDolphins.git" alt="Dolphins-gif" width="300px" />
 </div>
 
 
