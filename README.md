@@ -34,7 +34,7 @@
 
 
 <div align="center">
- <img src="gifDolphins.git" alt="Dolphins-gif" width="300px" />
+ <img src="gifDolphins.gif" alt="Dolphins-gif" width="300px" />
 </div>
 
 
