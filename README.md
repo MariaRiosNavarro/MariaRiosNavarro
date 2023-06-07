@@ -34,7 +34,7 @@
  <img src="gifDolphins.gif" alt="Dolphins-gif" width="200px" />
 </div>
 
-- 🔥 I’m currently learning **HTML, CSS, Javascript, REACT ...** and new technologies&tools: 
+- 🔥 I’m currently learning **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS ...** and new technologies&tools: 
 
 
 <div align="center">
