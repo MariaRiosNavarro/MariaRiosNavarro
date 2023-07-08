@@ -26,15 +26,14 @@
 	
 - 🎬 As a filmmaker (stand by props) with a great passion for new technological developments, I am looking for new challenges in the field of web development.  I am a dedicated, creative and self-motivated career changer. 
 
-- 💻 I already have knowledge in HTML, CSS, JavaScript and REACT which I have continuously developed in my spare time. Currently, I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> to further deepen my knowledge and skills.
-
+- 💻  I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
 
 
 <div align="center">
  <img src="gifDolphins.gif" alt="Dolphins-gif" width="200px" />
 </div>
 
-- 🔥 I’m currently learning **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS ...** and new technologies&tools: 
+- 🔥 I’m currently learning **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI...** and new technologies&tools: 
 
 
 <div align="center">
