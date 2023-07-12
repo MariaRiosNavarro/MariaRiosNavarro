@@ -29,11 +29,6 @@
 
 - 💻  I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
 
-
-<div align="center">
- <img src="gifDolphins.gif" alt="Dolphins-gif" width="200px" />
-</div>
-
 - 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI...** and new technologies&tools:  
 
 
@@ -50,7 +45,12 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>
-	
+
+
+<div align="center">
+ <img src="gifDolphins.gif" alt="Dolphins-gif" width="200px" />
+</div>
+ 
 
 <hr hidden>	
 	
