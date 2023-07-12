@@ -25,7 +25,7 @@
 <hr>
 </div>
 	
-- 🎬 As a filmmaker (stand by props) with a great passion for new technological developments, I am looking for new challenges in the field of web development.  I am a dedicated, creative and self-motivated career changer. 
+- 🎬 The opportunity to develop programming skills excites me. I am very motivated, think analytically and work hard. As an ex-filmmaker, I am adaptable and can find creative solutions to problems. 
 
 - 💻  I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
 
@@ -34,7 +34,7 @@
  <img src="gifDolphins.gif" alt="Dolphins-gif" width="200px" />
 </div>
 
-- 🔥 I’m currently learning **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI...** and new technologies&tools: 
+- 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI...** and new technologies&tools:  
 
 
 <div align="center">
@@ -59,7 +59,7 @@
 
 <hr>
 
-- 📃 I recently finished my freecodecamp certificate.
+- 📃 Other certificate: freecodecamp 
 
 <div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
 
