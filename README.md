@@ -29,7 +29,7 @@
 
 - 💻  I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
 
-- 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI...** and new technologies&tools:  
+- 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI, FIGMA ** and new technologies & tools like:  
 
 
 <div align="center">
