@@ -27,7 +27,7 @@
 	
 - 🎬 The opportunity to develop programming skills excites me. I am very motivated, think analytically and work hard. As an ex-filmmaker, I am adaptable and can find creative solutions to problems. 
 
-- 💻  I am completing the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
+- 💻  I complete the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a> 
 
 - 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI, FIGMA ** and new technologies & tools like:  
 
