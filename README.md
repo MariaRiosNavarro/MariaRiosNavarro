@@ -27,7 +27,7 @@
 	
 - 🎬 The opportunity to develop programming skills excites me. I am very motivated, think analytically and work hard. As an ex-filmmaker, I am adaptable and can find creative solutions to problems. 
 
-- 💻  I complete the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
+- 💻  I completed the web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
 
 <div align="center"><img src="certification1.jpg" width="250px"><img src="certification2.jpg" width="250px"><img src="certification3.jpg" width="250px"></div>
 
