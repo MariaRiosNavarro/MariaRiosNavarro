@@ -31,7 +31,7 @@
 
 <div align="center"><img src="certification1.jpg" width="250px"><img src="certification2.jpg" width="250px"><img src="certification3.jpg" width="250px"></div>
 
-- 🔥My skills are **HTML, CSS, Javascript, REACT, NODE, NEXT.js, Local Storage, Backend, MONGO DB, Mongo ATLAS , Cloudinary, OPEN AI, FIGMA ** and new technologies & tools like:  
+- 🔥My skills are ** HTML, CSS, Javascript, REACT, NEXT.js, MONGO DB + ATLAS , Cloudinary, OPEN AI, FIGMA ** and new technologies & tools like:  
 
 
 <div align="center">
