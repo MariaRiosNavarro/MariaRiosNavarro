@@ -7,6 +7,7 @@
 
 <div align="center">
 	<a href="mailto:info@propscode.com">E-Mail Contact</a>
+  </div>
 	
  <div align="center">
 	<a href="https://codesandbox.io/u/MariaRiosNavarro">CodeSandBox</a> 
