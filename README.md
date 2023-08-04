@@ -6,14 +6,13 @@
 
 
 <div align="center">
-	<a href="mailto:info@propscode.com">E-Mail Contact</a> 
+	<a href="mailto:info@propscode.com">E-Mail Contact</a>
+	
+ <div align="center">
 	<a href="https://codesandbox.io/u/MariaRiosNavarro">CodeSandBox</a> 
-</div>
+ </div>
+
 	
-	
-<div align="center">
- <img src="MariaRiosNavarro_Klein.jpg" alt="Image of Maria" width="100px" />
-</div>
 
 
 
