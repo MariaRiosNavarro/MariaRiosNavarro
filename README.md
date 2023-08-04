@@ -6,10 +6,6 @@
 
 
 <div align="center">
-    <h2>Maria Rios Navarro</h2>
-</div>
-
-<div align="center">
 	<a href="mailto:info@propscode.com">E-Mail Contact</a> 
 	<a href="https://codesandbox.io/u/MariaRiosNavarro">CodeSandBox</a> 
 </div>
