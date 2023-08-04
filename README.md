@@ -43,6 +43,7 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>	
+<br>
 	
 - 🗣️ I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
