@@ -23,10 +23,10 @@
 	
 - 🔥Passionate about honing my programming skills, I thrive on analytical thinking, unyielding determination, and a creative problem-solving approach. Embracing change and adaptation, I'm always ready to craft innovative solutions
 
-
+<br>
 
 - 🔥My skills are  **REACT**, **NEXT.js**, **Javascript**, **SCSS**, **Tailwind**, **Styled Components**, **MONGO DB** + **ATLAS** , **Cloudinary**, **OPEN AI**, **FIGMA** ... etc ...:  
-
+<br>
 
 <div align="center">
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
@@ -42,15 +42,15 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" /></code>
 </div>	
 
-
+<br>
 
 - 💻  Certifications: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
-
+<br>
 <div align="center"><img src="certification1.jpg" width="250px"><img src="certification2.jpg" width="250px"><img src="certification3.jpg" width="250px"></div>
 
-
+<br>
 - 📃 Other certificate: freecodecamp 
-
+<br>
 <div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
 
 
