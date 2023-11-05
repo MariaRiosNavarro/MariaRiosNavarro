@@ -21,7 +21,7 @@
 <hr>
 </div>
 	
-- 🎬 The opportunity to develop programming skills excites me. I am very motivated, think analytically and work hard. As an ex-filmmaker, I am adaptable and can find creative solutions to problems. 
+- 🎬 Passionate about honing my programming skills, I thrive on analytical thinking, unyielding determination, and a creative problem-solving approach. Embracing change and adaptation, I'm always ready to craft innovative solutions
 
 
 
