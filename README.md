@@ -49,7 +49,9 @@
 <div align="center"><img src="certification1.jpg" width="250px"><img src="certification2.jpg" width="250px"><img src="certification3.jpg" width="250px"></div>
 
 <br>
-- 📃 Other certificate: freecodecamp 
+
+- 📃 Other certificate: freecodecamp
+  
 <br>
 <div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
 
