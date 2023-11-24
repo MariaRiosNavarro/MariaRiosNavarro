@@ -27,19 +27,30 @@
 
 - Projects
 
-
+[Weather now](https://main--cool-vacherin-47a2af.netlify.app/)
 
 [JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
+
 [PropOs - mobile simulation](https://mobile-simulation-prop-os.vercel.app/)
+
 [Free2Game](https://free-to-game-v0-2.vercel.app/)
+
 [PokemonApi](https://celadon-pika-f84b6a.netlify.app/)
+
 [PROPS Movies Api](https://luxury-cendol-5bf0c6.netlify.app/)
+
 [PROPS Tasks](https://simpletaskapp.onrender.com/)
+
 [Architek Portfolio](https://spiffy-faloodeh-108a9f.netlify.app/)
+
 [PROPS Bank](https://bank-app-rosy.vercel.app/)
+
 [Beer App](https://beer-app-lovat.vercel.app/)
+
 [E-Commerce-Shop](https://e-commerce-store-gamma-ten.vercel.app/)
+
 [My Movie db](https://movie-db-liard-psi.vercel.app/)
+
 
 
 - 🔥My skills are  **REACT**, **NEXT.js**, **Javascript**, **SCSS**, **Tailwind**, **Styled Components**, **MONGO DB** + **ATLAS** , **Cloudinary**, **OPEN AI**, **FIGMA** ... etc ...:  
