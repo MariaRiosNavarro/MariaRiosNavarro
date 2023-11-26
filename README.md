@@ -110,9 +110,9 @@
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/newsletter-sign-up/" target="_blank"><img src="https://img.shields.io/badge/newsletter%20sign%20up-FB693D" /></a></th></tr><tr><td><p>HTML + SCSS + JS</p><p>GitHubPages</p><p>-Mobile, Tablet, Desktop-</p><p>Newsletter sign-up form with success message </p><p>(english)</p></td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="https://gallery-art-pink.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gallery%20Art%20-E900FF" /></a></th></tr><tr><td><p>React/Next + Styled Components</p><p>Vercel</p><p>Responsive</p><p>Api Gallery Art</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://celadon-pika-f84b6a.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Pokemon-FDCB07" /></a></th></tr><tr><td><p>React + Vite + CSS</p><p>Netlify</p><p>-Responsive</p><p>Api Pokemon - with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://gallery-art-pink.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gallery%20Art%20-E900FF" /></a></th></tr><tr><td><p>REACT + NEXT + Styled Components</p><p>Vercel</p><p>Responsive</p><p>Api Gallery Art</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://celadon-pika-f84b6a.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Pokemon-FDCB07" /></a></th></tr><tr><td><p>REACT + VITE + CSS</p><p>Netlify</p><p>-Responsive</p><p>Api Pokemon - with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://luxury-cendol-5bf0c6.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20movies%20-A5CBB4" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND </p><p>DAISYUI + Netlify</p><p>-Mobile + Desktop-</p><p>Sorted-movies-app</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
