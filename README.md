@@ -39,7 +39,7 @@
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
-![Next.js](https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=45474B)
+![Next.js](https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 	
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 	
