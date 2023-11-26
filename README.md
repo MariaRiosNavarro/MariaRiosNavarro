@@ -38,13 +38,13 @@
 
 |   |   |   |
 |:---:|:---:|:---:|
-||     |![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)    |
+||     |   |
 ||    |   |
 ||  |   |
 |    |    |   |
 ||  |    |   
-|   |  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   |   |  
-|   |  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |   |  
+|   |     |   |  
+|   |   |   |  
 |   |   |   |  
 |   |   |   |  
 |   |   |   |  
@@ -60,7 +60,7 @@
   <tr>
     <td class="tg-0lax">![Next.js](https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=white)</td>
     <td class="tg-0lax">![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) </td>
   </tr>
   <tr>
     <td class="tg-0lax">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   </td>
@@ -78,22 +78,22 @@
     <td class="tg-0lax"></td>
   </tr>
   <tr>
+    <td class="tg-0lax">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</td>
     <td class="tg-0lax">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </td>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</td>
+    <td class="tg-0lax">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
