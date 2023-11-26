@@ -147,7 +147,7 @@
     <tr style="border: none;">
       <td style="border: none;" align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/cleos/" target="_blank"><img src="https://img.shields.io/badge/Cleos-6BC1A3" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Desktop-</p><p>Landing Page about Cleos </p><p>with PARALAX (english)</p</td></tr></table></td>
       <td style="border: none;" align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/shapely-demo/" target="_blank"><img src="https://img.shields.io/badge/Shapely%20Demo-6D95B5" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p> Desktop-</p><p></p>Small one Page<p>(english)</p</td></tr></table></td>
-      <td style="border: none;" align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/New%20Title%20-B9D2D2" /></a></th></tr><tr><td><p>Techno</p><p>Deploy</p><p>Media</p><p>Description</p><p>(english)</p</td></tr></table></td>
+<!-- <td style="border: none;" align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/New%20Title%20-B9D2D2" /></a></th></tr><tr><td><p>Techno</p><p>Deploy</p><p>Media</p><p>Description</p><p>(english)</p</td></tr></table></td>-->
     </tr>
   </tbody>
 </table>
