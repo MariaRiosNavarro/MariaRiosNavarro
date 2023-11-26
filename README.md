@@ -135,9 +135,9 @@
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/string-separator/" target="_blank"><img src="https://img.shields.io/badge/String%20separator%20-AA151B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Responsive-</p><p>MULTILINGUAL String Separator</p><p>(english, german, spanish)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/income-tax-calculation/" target="_blank"><img src="https://img.shields.io/badge/Tax%20Calculator%20-1201FF" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Responsive-</p><p>Calculate tax (german tax)</p><p>from 2021 to 2023 (german)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/string-separator/" target="_blank"><img src="https://img.shields.io/badge/String%20separator%20-AA151B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>MULTILINGUAL String Separator</p><p>(english, german, spanish)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/income-tax-calculation/" target="_blank"><img src="https://img.shields.io/badge/Tax%20Calculator%20-1201FF" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Calculate tax (german tax)</p><p>from 2021 to 2023 (german)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/calorie-calculator/" target="_blank"><img src="https://img.shields.io/badge/Calorie%20Calculator%20-B15EFF" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Responsive-</p><p>Calorie Calculator </p><p>with  Harris Benedict Formula (german)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
@@ -156,7 +156,6 @@
 
 
 
-[Income-tax-calculation](https://mariariosnavarro.github.io/income-tax-calculation/) - HTML + CSS + JS (Responsive) - Deployment: GitHubPages -  Calculate tax from 2021 to 2023 (german tax)
 
 [calorie-calculator](https://mariariosnavarro.github.io/calorie-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Calorie Calculator with  Harris Benedict Formula
 
