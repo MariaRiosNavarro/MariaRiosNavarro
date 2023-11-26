@@ -156,6 +156,81 @@
 
 -----------------------------------------------------------
 
+<div align="center">
+     <div align="center"> <table><tr><th><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>Netlify</p><p>-Responsive-</p><p>Api Weather and Location App</p><p>(english)</p></td></tr></table></div >
+     <div align="center"> <table><tr><th><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a></th></tr><tr><td><p>NEXT + REACT + MONGO/ATLAS</p><p>Cloudinary + OPENAI + Vercel</p><p>-Mobile First-</p><p>Mobile OS Simulation</p><p>(german)</p> </td></tr></table></div >
+     <div align="center"> <table><tr><th><a href="https://free-to-game-v0-2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Free%202%20game-FB4654" /></a></th></tr><tr><td><p>REACT+VITE+CSS</p><p>Vercel</p><p>-Desktop + Mobile-</p><p>Api Game Info Page</p><p>with LIGHT/DARK mode (english)</p></td></tr></table></div >
+</div>
+
+
+
+
+    
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/rock-paper-scissors/" target="_blank"><img src="https://img.shields.io/badge/Rock%20paper%20scissors-CE8216" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Mobile, Tablet, Desktop-</p><p>Game Rock-Paper-Scissors</p><p>(english)</p></td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://github.com/MariaRiosNavarro/hangman-game" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS </p><p>GitHubPages</p><p>-Responsive-</p><p>Hangman Game MULTILINGUAL</p><p>(english, german, spanish)</p></td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/newsletter-sign-up/" target="_blank"><img src="https://img.shields.io/badge/Newsletter%20sign%20up-FB693D" /></a></th></tr><tr><td><p>HTML + SCSS + JS</p><p>GitHubPages</p><p>-Mobile, Tablet, Desktop-</p><p>Newsletter sign-up form </p><p>with success message (english)</p></td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://gallery-art-pink.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gallery%20Art%20-E900FF" /></a></th></tr><tr><td><p>REACT + NEXT + Styled Components</p><p>Vercel</p><p>Responsive</p><p>Api Gallery Art</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://celadon-pika-f84b6a.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Pokemon-FDCB07" /></a></th></tr><tr><td><p>REACT + VITE + CSS</p><p>Netlify</p><p>-Responsive</p><p>Api Pokemon - with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://luxury-cendol-5bf0c6.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20movies%20-A5CBB4" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND </p><p>DAISYUI + Netlify</p><p>-Mobile + Desktop-</p><p>Sorted-movies-app</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App- with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://bank-app-rosy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20bank%20-B9ECEB" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p> React Router + Vercel</p><p>-Responsive-</p><p>Bank App</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://landing-page-react-wine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/We%20are%20glint-138000" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Landing Page</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/picsum-gallery/" target="_blank"><img src="https://img.shields.io/badge/Picsum%20Gallery%20-CED7C9" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Api Gallery Art with PAGINATION</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://github.com/MariaRiosNavarro/beer-app" target="_blank"><img src="https://img.shields.io/badge/Beer%20App%20-FDCB41" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile</p><p>Api Beer App</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://spiffy-faloodeh-108a9f.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Architect%20Portfolio%20-FFFFFF" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Netlify</p><p>-Mobile, Tablet, Desktop-</p><p> Loading Page & Light/Dark Mode</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://movie-db-liard-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Movie%20db-551698" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Movie Db</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://e-commerce-store-gamma-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/E%20commerce%20store-393939" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>Desktop</p><p>Api E-commerce-shop</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/clocks" target="_blank"><img src="https://img.shields.io/badge/Clocks-383636" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Time & Clock Management</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/jssheet/" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20Cheat%20Sheet-F0810B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>JavaScript Cheat Sheet</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/rickAndMortyApp/" target="_blank"><img src="https://img.shields.io/badge/Rick%20&%20more-A9D3E9" /></a></th></tr><tr><td><p>REACT + VITE + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Api Rick & Morty</p><p>with Pagination & Search(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/VAT-calculator-app/" target="_blank"><img src="https://img.shields.io/badge/VAT%20Calculator%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Euro-Vat-Calculator</p><p> (german)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/string-separator/" target="_blank"><img src="https://img.shields.io/badge/String%20separator%20-AA151B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>MULTILINGUAL String Separator</p><p>(english, german, spanish)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/income-tax-calculation/" target="_blank"><img src="https://img.shields.io/badge/Tax%20Calculator%20-1201FF" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Calculate tax (german tax)</p><p>from 2021 to 2023 (german)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/calorie-calculator/" target="_blank"><img src="https://img.shields.io/badge/Calorie%20Calculator%20-B15EFF" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Calorie Calculator </p><p>with  Harris Benedict Formula (german)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/tip-calculator/" target="_blank"><img src="https://img.shields.io/badge/Tip%20Calculator%20-D3D3D3" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Tip Calculator</p><p>(german)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/morse-decoder/" target="_blank"><img src="https://img.shields.io/badge/Morse%20Decoder%20-22B1AA" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Simultaneous translator to Morse code</p><p>(english/all)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/caesar-cipher/" target="_blank"><img src="https://img.shields.io/badge/Caesar%20cipher%20-90EE90" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Cipher encryptor and decryptor</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Desktop-</p><p></p>Landing Page Wildfires<p> in California (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/gitSheet/" target="_blank"><img src="https://img.shields.io/badge/Git%20Sheet%20-AB4848" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Git + Github Cheat Sheet</p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/newsletter/" target="_blank"><img src="https://img.shields.io/badge/Super%207000%20News-E9E9E0" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Desktop, Mobile, Tablet-</p><p>Small Newsletter </p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Designer%20Portfolio-FFFFFF" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-only Desktop-</p><p></p>Portfolio with <p> PARALAX images (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/dieter-rams/" target="_blank"><img src="https://img.shields.io/badge/Dieter%20Rams%20-AAAFB4" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Responsive Card </p><p>(english)</p</td></tr></table></td>
+    </tr>
+    <tr>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/cleos/" target="_blank"><img src="https://img.shields.io/badge/Cleos-6BC1A3" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Desktop-</p><p>Landing Page about Cleos </p><p>with PARALAX (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p> Desktop-</p><p></p>Small one Page<p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/New%20Title%20-B9D2D2" /></a></th></tr><tr><td><p>Techno</p><p>Deploy</p><p>Media</p><p>Description</p><p>(english)</p</td></tr></table></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+
+
+
+-----------------------------------------------------------
 
 
 <div align="center">
