@@ -122,7 +122,7 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/picsum-gallery/" target="_blank"><img src="https://img.shields.io/badge/Picsum%20Gallery%20-CED7C9" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Api Gallery Art with PAGINATION</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://github.com/MariaRiosNavarro/beer-app" target="_blank"><img src="https://img.shields.io/badge/Beer%20App%20-FDCB41" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile</p><p>Api Beer App</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://spiffy-faloodeh-108a9f.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Architect%20Portfolio%20-FFFFFF" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Netlify</p><p>-Mobile, Tablet, Desktop-</p><p> Loading Page & Light/Dark Mode</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
@@ -160,7 +160,7 @@
 
 [JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
 
-[Architek Portfolio](https://spiffy-faloodeh-108a9f.netlify.app/)
+[Architek Portfolio]()
 
 
 [E-Commerce-Shop](https://e-commerce-store-gamma-ten.vercel.app/)
