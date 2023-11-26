@@ -145,8 +145,8 @@
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/caesar-cipher/" target="_blank"><img src="https://img.shields.io/badge/Caesar%20cipher%20-90EE90" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Cipher encryptor and decryptor</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Desktop-</p><p></p>Landing Page Wildfires<p> in California (english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
   </tbody>
@@ -173,6 +173,8 @@
 [Timeless](https://mariariosnavarro.github.io/timeless/) - HTML + SCSS - (Mobile, Tablet, Desktop) - Deployment: GitHubPages  - Langing Page Jewellery Shop (english language)
 
 [California](https://mariariosnavarro.github.io/california/) - HTML + SCSS - (Mobile, Desktop) - Deployment: GitHubPages  - Landing Page Wildfires in California (english language)
+
+
 
 
 [Git&GitHub Cheat Sheet](https://mariariosnavarro.github.io/gitSheet/)- HTML + CSS (Responsive) - Deployment: GitHubPages - Small Git + Github Cheat Sheet
