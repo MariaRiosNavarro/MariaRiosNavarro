@@ -147,7 +147,7 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Desktop-</p><p></p>Landing Page Wildfires<p> in California (english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/gitSheet/" target="_blank"><img src="https://img.shields.io/badge/Git%20Sheet%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Git + Github Cheat Sheet</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/gitSheet/" target="_blank"><img src="https://img.shields.io/badge/Git%20Sheet%20-AB4848" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Git + Github Cheat Sheet</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
