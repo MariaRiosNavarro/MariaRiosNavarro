@@ -83,7 +83,7 @@
 <br>
 
 
-- Portfolio:
+<div align="center"> <h2>Portfolio:</h2></div>
 
 
 <div align="center">
