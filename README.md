@@ -117,11 +117,11 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App- with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://bank-app-rosy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20bank%20-B9ECEB" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p> React Router + Vercel</p><p>-Responsive-</p><p>Bank App</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://landing-page-react-wine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/We%20are%20glint-138000" /></a></th></tr><tr><td><p>React + Vite + Scss</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Landing Page</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://landing-page-react-wine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/We%20are%20glint-138000" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Landing Page</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/picsum-gallery/" target="_blank"><img src="https://img.shields.io/badge/Picsum%20Gallery%20-CED7C9" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Api Gallery Art with PAGINATION</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://github.com/MariaRiosNavarro/beer-app" target="_blank"><img src="https://img.shields.io/badge/Beer%20App%20-FDCB41" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile</p><p>Api Beer App</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
@@ -154,15 +154,14 @@
 
 </div>
 
+[Timeless](https://mariariosnavarro.github.io/timeless/) - HTML + SCSS - (Mobile, Tablet, Desktop) - Deployment: GitHubPages  - Langing Page Jewellery Shop (english language)
 
-
-[Picsum Gallery](https://mariariosnavarro.github.io/picsum-gallery/) - Api Gallery Art with PAGINATION
+[California](https://mariariosnavarro.github.io/california/) - HTML + SCSS - (Mobile, Desktop) - Deployment: GitHubPages  - Landing Page Wildfires in California (english language)
 
 [JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
 
 [Architek Portfolio](https://spiffy-faloodeh-108a9f.netlify.app/)
 
-[Beer App](https://beer-app-lovat.vercel.app/)
 
 [E-Commerce-Shop](https://e-commerce-store-gamma-ten.vercel.app/)
 
@@ -193,9 +192,7 @@
 
 [Tip-calculator](https://mariariosnavarro.github.io/tip-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Tip Calculator (german language)
 
-[Timeless](https://mariariosnavarro.github.io/timeless/) - HTML + SCSS - (Mobile, Tablet, Desktop) - Deployment: GitHubPages  - Langing Page Jewellery Shop (english language)
 
-[California](https://mariariosnavarro.github.io/california/) - HTML + SCSS - (Mobile, Desktop) - Deployment: GitHubPages  - Landing Page Wildfires in California (english language)
 
 [Git&GitHub Cheat Sheet](https://mariariosnavarro.github.io/gitSheet/)- HTML + CSS (Responsive) - Deployment: GitHubPages - Small Git + Github Cheat Sheet
 
