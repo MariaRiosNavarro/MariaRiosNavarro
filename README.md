@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<table>
+<table style="border: 2px solid yellow;">
   <tbody>
     <tr>
       <td><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
