@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI Badge"></td>
-      <td align="center"></td>
+      <td align="center"><img src="https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge" alt="CSS Modules Badge"></td>
       <td align="center"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge"></td>
     </tr>
   </tbody>
