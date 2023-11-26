@@ -157,6 +157,7 @@
 
 -----------------------------------------------------------
 
+<div align="center"> <h2>👩🏽‍💻Activity👩🏽‍💻</h2></div>
 
 <div align="center">
 
@@ -164,7 +165,9 @@
 
 </div>
 
+-----------------------------------------------------------
 
+<div align="center"> <h2>📃Certification📃</h2></div>
 
 - 💻  Certifications: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
 <br>
@@ -180,6 +183,10 @@
 
 <hr>
 
+-----------------------------------------------------------
+
+<div align="center"> <h2>🔠Languages🔠</h2></div>
+
 <br>
 	
 - 🗣️ I speak fluent German and English. Spanish and Catalan are my mother tongues.
@@ -188,7 +195,7 @@
 
 
 
-
+-----------------------------------------------------------
 
 ![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
 ![](https://img.shields.io/github/forks/MariaRiosNavarro.svg)
