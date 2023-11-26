@@ -127,10 +127,10 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://movie-db-liard-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Movie%20db-551698" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Movie Db</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://e-commerce-store-gamma-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/E%20commerce%20store-393939" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>Desktop</p><p>Api E-commerce-shop</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/clocks" target="_blank"><img src="https://img.shields.io/badge/Clocks-383636" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Responsive-</p><p>Time & Clock Management</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/clocks" target="_blank"><img src="https://img.shields.io/badge/Clocks-383636" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Time & Clock Management</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/jssheet/" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20Cheat%20Sheet-F0810B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>JavaScript Cheat Sheet</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
@@ -154,20 +154,13 @@
 
 </div>
 
-[Timeless](https://mariariosnavarro.github.io/timeless/) - HTML + SCSS - (Mobile, Tablet, Desktop) - Deployment: GitHubPages  - Langing Page Jewellery Shop (english language)
-
-[California](https://mariariosnavarro.github.io/california/) - HTML + SCSS - (Mobile, Desktop) - Deployment: GitHubPages  - Landing Page Wildfires in California (english language)
 
 [JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
-
-
 [Income-tax-calculation](https://mariariosnavarro.github.io/income-tax-calculation/) - HTML + CSS + JS (Responsive) - Deployment: GitHubPages -  Calculate tax from 2021 to 2023 (german tax)
 
 [Morse-Decoder](https://mariariosnavarro.github.io/morse-decoder/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Simultaneous translator to Morse code
 
 [Caesar-cipher](https://mariariosnavarro.github.io/caesar-cipher/)- HTML + CSS + JS (Responsive)- Deployment: GitHubPages -Cipher encryptor and decryptor.
-
-[Clocks](https://mariariosnavarro.github.io/clocks/) - HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Time & Clock Management - 
 
 
 [calorie-calculator](https://mariariosnavarro.github.io/calorie-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Calorie Calculator with  Harris Benedict Formula
@@ -182,6 +175,14 @@
 
 [Tip-calculator](https://mariariosnavarro.github.io/tip-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Tip Calculator (german language)
 
+
+
+
+
+
+[Timeless](https://mariariosnavarro.github.io/timeless/) - HTML + SCSS - (Mobile, Tablet, Desktop) - Deployment: GitHubPages  - Langing Page Jewellery Shop (english language)
+
+[California](https://mariariosnavarro.github.io/california/) - HTML + SCSS - (Mobile, Desktop) - Deployment: GitHubPages  - Landing Page Wildfires in California (english language)
 
 
 [Git&GitHub Cheat Sheet](https://mariariosnavarro.github.io/gitSheet/)- HTML + CSS (Responsive) - Deployment: GitHubPages - Small Git + Github Cheat Sheet
