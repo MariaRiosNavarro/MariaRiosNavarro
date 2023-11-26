@@ -154,24 +154,13 @@
 
 </div>
 
+[Landing Page](https://landing-page-react-wine.vercel.app/) - React + Vite + Scss (Mobile, Tablet, Desktop)- Landing Page
 
-
+[Picsum Gallery](https://mariariosnavarro.github.io/picsum-gallery/) - Api Gallery Art with PAGINATION
 
 [JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
 
-
-
-
-
-
-
-
-
-
-
 [Architek Portfolio](https://spiffy-faloodeh-108a9f.netlify.app/)
-
-[PROPS Bank]()
 
 [Beer App](https://beer-app-lovat.vercel.app/)
 
@@ -191,12 +180,6 @@
 
 [Clocks](https://mariariosnavarro.github.io/clocks/) - HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Time & Clock Management - 
 
-[Landing Page](https://landing-page-react-wine.vercel.app/) - React + Vite + Scss (Mobile, Tablet, Desktop)- Landing Page
-
-[Picsum Gallery](https://mariariosnavarro.github.io/picsum-gallery/) - Api Gallery Art with PAGINATION
-
-[Frontend Mentor - Newsletter sign](https://mariariosnavarro.github.io/newsletter-sign-up/) - HTML + SCSS + JS (Mobile, Tablet, Desktop) - Deployment: GitHubPages -  Newsletter sign-up form with success message challenge on Frontend Mentor.
-
 
 [calorie-calculator](https://mariariosnavarro.github.io/calorie-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Calorie Calculator with  Harris Benedict Formula
 
@@ -205,7 +188,6 @@
 
 [String-separator](https://mariariosnavarro.github.io/string-separator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - MULTILINGUAL String Separator (english, german, spanish)
 
-[Art Gallery](https://gallery-art-pink.vercel.app/)- React/Next - Styled Components (Responsive) -Deployment: Vercel - Api Gallery Art 
 
 [Rick & More](https://mariariosnavarro.github.io/rickAndMortyApp/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Api Rick And Morty Gallery with SEARCH & PAGINATION
 
@@ -224,7 +206,6 @@
 [Diether Rams](https://mariariosnavarro.github.io/dieter-rams/) - HTML + CSS (Responsive) - Deployment: GitHubPages - Small Responsive Card 
 
 [Cleos](https://mariariosnavarro.github.io/cleos/) - HTML + CSS (only Desktop) - Deployment: GitHubPages - Landing Page about Cleos with PARALAX images
-
 
 [Shapely-demo](https://mariariosnavarro.github.io/shapely-demo/)  - HTML + CSS (only Desktop) - Deployment: GitHubPages - Small one Page
 
