@@ -150,9 +150,9 @@
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/gitSheet/" target="_blank"><img src="https://img.shields.io/badge/Git%20Sheet%20-AB4848" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Git + Github Cheat Sheet</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Desktop-</p><p></p>Landing Page Wildfires<p> in California (english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Git + Github Cheat Sheet</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/newsletter/" target="_blank"><img src="https://img.shields.io/badge/Super%207000%20News-E9E9E0" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Desktop, Mobile, Tablet-</p><p>Small Newsletter </p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Designer%20Portfolio-FFFFFF" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-only Desktop-</p><p></p>Portfolio with <p> PARALAX images (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/dieter-rams/" target="_blank"><img src="https://img.shields.io/badge/Dieter%20Rams%20-AAAFB4" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Responsive Card </p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
@@ -167,15 +167,6 @@
 
 
 
-
-
-[Git&GitHub Cheat Sheet](https://mariariosnavarro.github.io/gitSheet/)- HTML + CSS (Responsive) - Deployment: GitHubPages - Small Git + Github Cheat Sheet
-
-[Super 7000 News](https://mariariosnavarro.github.io/newsletter/)- HTML + CSS (Desktop, Mobile, Tablet) - Deployment: GitHubPages - Small Newsletter
-
-[Digital Designer Portfolio](https://mariariosnavarro.github.io/portfolio/)- HTML + CSS (only Desktop) - Deployment: GitHubPages - Portfolio with PARALAX images
-
-[Diether Rams](https://mariariosnavarro.github.io/dieter-rams/) - HTML + CSS (Responsive) - Deployment: GitHubPages - Small Responsive Card 
 
 [Cleos](https://mariariosnavarro.github.io/cleos/) - HTML + CSS (only Desktop) - Deployment: GitHubPages - Landing Page about Cleos with PARALAX images
 
