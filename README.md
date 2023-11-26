@@ -177,13 +177,13 @@
 
 <br>
 
-- 💻  Certifications: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
+- 💻  Certification: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
 <br>
 <div align="center"><img src="certification1.jpg" width="250px"><img src="certification2.jpg" width="250px"><img src="certification3.jpg" width="250px"></div>
 
 <br>
 
-- 📃 Other certificate: freecodecamp
+- 📃 Other Certification: freecodecamp
   
 <br>
 <div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
