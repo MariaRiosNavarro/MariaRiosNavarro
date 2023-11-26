@@ -100,7 +100,7 @@
 <table >
   <tbody>
     <tr>
-      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p>HTML + CSS + JS (Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
+      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p>HTML + CSS + JS</p> <p>(Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
       <td align="center"><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a><p>NEXT + REACT + MONGO/ATLAS</p> <p>Cloudinary + OPENAI (Mobile First) </p><p> Deployment: Vercel - Simulation Mobile OS</p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
