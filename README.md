@@ -26,10 +26,10 @@
 <hr>
 </div>
 	
-- 🔥Passionate about honing my programming skills, I thrive on analytical thinking, unyielding determination, and a creative problem-solving approach. Embracing change and adaptation, I'm always ready to craft innovative solutions
+- 🚀 Passionate about honing my programming skills, I thrive on analytical thinking, unyielding determination, and a creative problem-solving approach. Embracing change and adaptation, I'm always ready to craft innovative solutions
 
 <br>
-<div align="center"> <h2>🔥Skills🔥:</h2></div>
+<div align="center"> <h2>🔥Skills🔥</h2></div>
 <br>
 
 
@@ -82,7 +82,7 @@
 <br>
 
 
-<div align="center"> <h2>Portfolio:</h2></div>
+<div align="center"> <h2>✨Portfolio✨</h2></div>
 
 
 <div align="center">
