@@ -155,9 +155,9 @@
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/dieter-rams/" target="_blank"><img src="https://img.shields.io/badge/Dieter%20Rams%20-AAAFB4" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Small Responsive Card </p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/timeless/" target="_blank"><img src="https://img.shields.io/badge/Timeless-E1BA67" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Tablet, Desktop-</p><p>Langing Page </p><p>Jewellery Shop (english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + SCSS</p><p>GitHub Pages</p><p>-Mobile, Desktop-</p><p></p>Landing Page Wildfires<p> in California (english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/cleos/" target="_blank"><img src="https://img.shields.io/badge/Cleos-6BC1A3" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p>-Desktop-</p><p>Landing Page about Cleos </p><p>with PARALAX (english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/california/" target="_blank"><img src="https://img.shields.io/badge/California-1D1C1C" /></a></th></tr><tr><td><p>HTML + CSS</p><p>GitHub Pages</p><p> Desktop-</p><p></p>Small one Page<p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/New%20Title%20-B9D2D2" /></a></th></tr><tr><td><p>Techno</p><p>Deploy</p><p>Media</p><p>Description</p><p>(english)</p</td></tr></table></td>
     </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@
 
 
 
-[Cleos](https://mariariosnavarro.github.io/cleos/) - HTML + CSS (only Desktop) - Deployment: GitHubPages - Landing Page about Cleos with PARALAX images
+
 
 [Shapely-demo](https://mariariosnavarro.github.io/shapely-demo/)  - HTML + CSS (only Desktop) - Deployment: GitHubPages - Small one Page
 
