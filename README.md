@@ -116,7 +116,7 @@
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App- with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://bank-app-rosy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20bank%20-B9ECEB" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p> React Router + Vercel</p><p>-Responsive-</p><p>Bank App</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
@@ -161,17 +161,17 @@
 
 
 
-[Free2Game](https://free-to-game-v0-2.vercel.app/)
 
-[PokemonApi](https://celadon-pika-f84b6a.netlify.app/)
 
-[PROPS Movies Api](https://luxury-cendol-5bf0c6.netlify.app/)
 
-[PROPS Tasks](https://simpletaskapp.onrender.com/)
+
+
+
+
 
 [Architek Portfolio](https://spiffy-faloodeh-108a9f.netlify.app/)
 
-[PROPS Bank](https://bank-app-rosy.vercel.app/)
+[PROPS Bank]()
 
 [Beer App](https://beer-app-lovat.vercel.app/)
 
