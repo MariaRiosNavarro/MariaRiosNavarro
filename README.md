@@ -29,8 +29,7 @@
 - 🔥Passionate about honing my programming skills, I thrive on analytical thinking, unyielding determination, and a creative problem-solving approach. Embracing change and adaptation, I'm always ready to craft innovative solutions
 
 <br>
-
-- 🔥My skills are  **REACT**, **NEXT.js**, **Javascript**, **SCSS**, **Tailwind**, **Styled Components**, **MONGO DB** + **ATLAS** , **Cloudinary**, **OPEN AI**, **FIGMA** ... etc ...:  
+<div align="center"> <h2>🔥Skills🔥:</h2></div>
 <br>
 
 
