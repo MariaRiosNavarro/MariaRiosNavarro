@@ -83,8 +83,8 @@
 
 
 <div align="center"> <h2>✨Portfolio✨</h2></div>
-
-
+<br>
+<br>
 <div align="center">
 <table style="border-collapse: collapse;">
   <tbody>
@@ -159,6 +159,10 @@
 
 <div align="center"> <h2>👩🏽‍💻Activity👩🏽‍💻</h2></div>
 
+<br>
+
+<br>
+
 <div align="center">
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
@@ -168,6 +172,10 @@
 -----------------------------------------------------------
 
 <div align="center"> <h2>📃Certification📃</h2></div>
+
+<br>
+
+<br>
 
 - 💻  Certifications: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
 <br>
@@ -188,6 +196,8 @@
 <div align="center"> <h2>🔠Languages🔠</h2></div>
 
 <br>
+
+<br>
 	
 - 🗣️ I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
@@ -196,6 +206,8 @@
 
 
 -----------------------------------------------------------
+
+<br>
 
 ![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
 ![](https://img.shields.io/github/forks/MariaRiosNavarro.svg)
