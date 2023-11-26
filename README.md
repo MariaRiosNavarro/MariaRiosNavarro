@@ -107,7 +107,7 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/rock-paper-scissors/" target="_blank"><img src="https://img.shields.io/badge/Rock%20paper%20scissors-CE8216" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHubPages</p><p>-Mobile, Tablet, Desktop-</p><p>Game Rock-Paper-Scissors</p><p>(english)</p></td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://github.com/MariaRiosNavarro/hangman-game" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS </p><p>GitHubPages</p><p>-Responsive-</p><p>Hangman Game</p><p>MULTILINGUAL:(english, german, spanish)</p></td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p></td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/newsletter-sign-up/" target="_blank"><img src="https://img.shields.io/badge/newsletter%20sign%20up-FB693D" /></a></th></tr><tr><td><p>HTML + SCSS + JS</p><p>GitHubPages</p><p>-Mobile, Tablet, Desktop-</p><p>Newsletter sign-up form with success message </p><p>(english)</p></td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
