@@ -103,61 +103,61 @@
       <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p>HTML + CSS + JS (Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
   </tbody>
 </table>
@@ -165,7 +165,7 @@
 </div>
 
 
-  https://img.shields.io/badge/Weather%20now%20-8A2BE2
+
 
 [Weather now](https://main--cool-vacherin-47a2af.netlify.app/)
 
