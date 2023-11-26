@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/jssheet/" target="_blank"><img src="https://img.shields.io/badge/JavaScript%20Cheat%20Sheet-F0810B" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>JavaScript Cheat Sheet</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/rickAndMortyApp/" target="_blank"><img src="https://img.shields.io/badge/Rickr%20&%20more-A9D3E9" /></a></th></tr><tr><td><p>REACT + VITE + CSS</p><p>Vercel</p><p>-Responsive-</p><p>Api Rick & Morty</p><p>with Pagination & search(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
