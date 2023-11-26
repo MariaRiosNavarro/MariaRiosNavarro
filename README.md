@@ -6,15 +6,17 @@
 
 
 <div align="center">
-	<a href="mailto:info@propscode.com">E-Mail Contact</a>
-  </div>
-  <div align="center">
 	<a href="www.linkedin.com/in/mariariosnavarro" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  </div>
+</div>
+
+<div align="center">
+	<a href="mailto:info@propscode.com">E-Mail Contact</a>
+</div>
+
 	
- <div align="center">
+<div align="center">
 	<a href="https://codesandbox.io/u/MariaRiosNavarro">CodeSandBox</a> 
- </div>
+</div>
 
 	
 
