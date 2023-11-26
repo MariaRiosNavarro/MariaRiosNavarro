@@ -154,30 +154,7 @@
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
     <tr>
-             <td align="center">
-          <div>
-            <a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" />
-            </a>
-          </div>
-          <div>
-            <p>NEXT + REACT + MONGO/ATLAS</p>
-            <p>Cloudinary + OPENAI (Mobile First) </p>
-            <p> Deployment: Vercel - Mobile OS Simulation </p>
-          </div>
-        </td>
-        <td align="center">
-          <div>
-            <a href="https://free-to-game-v0-2.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Free%202%20game-FB4654" />
-            </a>
-          </div>
-          <div>
-            <p>REACT+VITE+CSS</p>
-            <p>(Desktop + Mobile)</p>
-            <p>Deployment: Vercel - Api Game Info Page - with LIGHT/DARK mode</p>
-          </div>
-        </td>
+      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>extra</p></td></tr></table></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
     </tr>
