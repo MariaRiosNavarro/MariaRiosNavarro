@@ -39,7 +39,7 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></td>
+      <td><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></td>
       <td><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></td>
     </tr>
