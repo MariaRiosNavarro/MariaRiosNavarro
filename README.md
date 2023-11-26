@@ -33,15 +33,38 @@
 - 🔥My skills are  **REACT**, **NEXT.js**, **Javascript**, **SCSS**, **Tailwind**, **Styled Components**, **MONGO DB** + **ATLAS** , **Cloudinary**, **OPEN AI**, **FIGMA** ... etc ...:  
 <br>
 
+<div align="flex">
+
 <div align="center">
+	
+![Next.js](https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 
-![Next.js](https://img.shields.io/badge/Next.js-45474B?style=for-the-badge&logo=nextdotjs&logoColor=white)
-	
+</div>
+
+
+<div align="center">
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white) 
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff&style=flat-square)
+
+
+
+</div>
+<div align="center"></div>
+
+
+
+	
+
 	
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
@@ -51,9 +74,8 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white) 
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
