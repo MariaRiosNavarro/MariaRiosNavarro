@@ -77,7 +77,6 @@
       <td><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI Badge"></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
