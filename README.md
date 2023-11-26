@@ -224,6 +224,12 @@
 
 
 
+<div align="center">
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
+
+</div>
+
 
 
 - 💻  Certifications: Web development bootcamp at <a href="https://www.neuefische.de/" target="_blank">"neue Fische"</a>
@@ -247,7 +253,6 @@
 <hr>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
 
 
 
