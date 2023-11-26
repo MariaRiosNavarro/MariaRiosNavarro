@@ -126,7 +126,7 @@
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://movie-db-liard-psi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Movie%20db-551698" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Movie Db</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://e-commerce-store-gamma-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/E%20commerce%20store-393939" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>Desktop</p><p>Api E-commerce-shop</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
@@ -162,9 +162,9 @@
 
 
 
-[E-Commerce-Shop](https://e-commerce-store-gamma-ten.vercel.app/)
+[E-Commerce-Shop]()
 
-[My Movie db]()
+
 
 [Rock-paper-scissors](https://mariariosnavarro.github.io/rock-paper-scissors/) - HTML + CSS + JS (Mobile, Tablet, Desktop) - Deployment: GitHubPages - Game
 
