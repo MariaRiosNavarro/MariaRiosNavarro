@@ -245,6 +245,8 @@
 - 🗣️ I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
 <hr>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&theme=blue-green)
 
 
