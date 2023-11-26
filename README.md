@@ -155,7 +155,7 @@
 </div>
 
 
-[JavaScript Cheat Sheet](https://mariariosnavarro.github.io/jssheet/)
+
 [Income-tax-calculation](https://mariariosnavarro.github.io/income-tax-calculation/) - HTML + CSS + JS (Responsive) - Deployment: GitHubPages -  Calculate tax from 2021 to 2023 (german tax)
 
 [Morse-Decoder](https://mariariosnavarro.github.io/morse-decoder/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Simultaneous translator to Morse code
