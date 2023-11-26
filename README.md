@@ -100,9 +100,9 @@
 <table >
   <tbody>
     <tr>
-      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2&style=for-the-badge" /></a> <br><p>HTML + CSS + JS (Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
-      <td align="center"><img src="" /></td>
-      <td align="center"><img src="" /></td>
+      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p>HTML + CSS + JS (Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /><p>techno</p><p>extra</p></td>
+      <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /><p>techno</p><p>extra</p></td>
       <td align="center"><img src="" /></td>
     </tr>
     <tr>
