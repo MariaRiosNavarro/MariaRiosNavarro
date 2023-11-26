@@ -100,7 +100,11 @@
 <table >
   <tbody>
     <tr>
-      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p>HTML + CSS + JS</p> <p>(Responsive)</p><p> Deployment: Netlify - Api Weather and Location App</p></td>
+	<td align="center"> <table><tr><th><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>(Responsive)</p><p>Netlify - Api Weather and Location App</p></td></tr></table></td>
+	<td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p></td></tr></table></td>
+	<td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p></td></tr></table></td>
+	<td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p></td></tr></table></td>
+      <td align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a> <br><p></p> <p></p><p> </p></td>
       <td align="center"><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a><p>NEXT + REACT + MONGO/ATLAS</p> <p>Cloudinary + OPENAI (Mobile First) </p><p> Deployment: Vercel - Mobile OS Simulation </p></td>
       <td align="center"><a href="https://free-to-game-v0-2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Free%202%20game-FB4654" /></a><p>REACT+VITE+CSS</p><p>(Desktop + Mobile)</p><p>Deployment: Vercel - Api Game Info Page - with LIGHT/DARK mode  </p></td>
       <td align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a><p>techno</p><p>extra</p></td>
