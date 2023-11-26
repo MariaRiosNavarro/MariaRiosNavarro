@@ -248,6 +248,7 @@
 
 ![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
 ![](https://img.shields.io/github/forks/MariaRiosNavarro.svg)
+![](https://img.shields.io/github/followers/MariaRiosNavarro.svg?style=social&label=Follow&maxAge=2592000)
 
 
 <div align="center">
