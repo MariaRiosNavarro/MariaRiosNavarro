@@ -141,8 +141,8 @@
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/tip-calculator/" target="_blank"><img src="https://img.shields.io/badge/Tip%20Calculator%20-D3D3D3" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Tip Calculator</p><p>(german)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/morse-decoder/" target="_blank"><img src="https://img.shields.io/badge/Morse%20Decoder%20-22B1AA" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Simultaneous translator to Morse code</p><p>(english/all)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://mariariosnavarro.github.io/caesar-cipher/" target="_blank"><img src="https://img.shields.io/badge/Caesar%20cipher%20-90EE90" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>GitHub Pages</p><p>-Responsive-</p><p>Cipher encryptor and decryptor</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
@@ -158,12 +158,6 @@
 
 
 
-[Tip-calculator](https://mariariosnavarro.github.io/tip-calculator/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Tip Calculator (german language)
-
-
-[Morse-Decoder](https://mariariosnavarro.github.io/morse-decoder/)- HTML + CSS + JS (Responsive) - Deployment: GitHubPages - Simultaneous translator to Morse code
-
-[Caesar-cipher](https://mariariosnavarro.github.io/caesar-cipher/)- HTML + CSS + JS (Responsive)- Deployment: GitHubPages -Cipher encryptor and decryptor.
 
 
 
