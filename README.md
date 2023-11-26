@@ -47,7 +47,7 @@
 
 -TEST
 
-<div><img scr ="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt ="badge" width ="50px"</div>
+<div><img scr ="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt ="badge" width ="50px"</div>
 
 
 
