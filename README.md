@@ -117,7 +117,7 @@
     <tr>
       <td align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App- with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
       <td align="center"> <table><tr><th><a href="https://bank-app-rosy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20bank%20-B9ECEB" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p> React Router + Vercel</p><p>-Responsive-</p><p>Bank App</p><p>(english)</p</td></tr></table></td>
-      <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
+      <td align="center"> <table><tr><th><a href="https://landing-page-react-wine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/We%20are%20glint-138000" /></a></th></tr><tr><td><p>React + Vite + Scss</p><p>Vercel</p><p>-Responsive-</p><p>Landing Page</p><p>(english)</p</td></tr></table></td>
     </tr>
     <tr>
       <td align="center"> <table><tr><th><a href="#" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>techno</p><p>techno</p><p>extra</p><p>extra</p><p>(english)</p</td></tr></table></td>
