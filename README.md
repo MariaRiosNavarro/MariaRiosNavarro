@@ -247,6 +247,7 @@
 <hr>
 
 ![](https://img.shields.io/github/gist/stars/MariaRiosNavarro?style=social)
+![](https://img.shields.io/github/forks/MariaRiosNavarro.svg)
 
 
 <div align="center">
