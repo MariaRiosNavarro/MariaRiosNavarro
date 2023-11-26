@@ -100,7 +100,7 @@
 <table >
   <tbody>
     <tr>
-      <td align="center"><img src="https://badgen.net/badge/hello/world/red?icon=weather" /></td>
+      <td align="center"><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-8A2BE2" /></a></td>
       <td align="center"><img src="" /></td>
       <td align="center"><img src="" /></td>
       <td align="center"><img src="" /></td>
@@ -163,7 +163,9 @@
 </table>
 
 </div>
-  
+
+
+  https://img.shields.io/badge/Weather%20now%20-8A2BE2
 
 [Weather now](https://main--cool-vacherin-47a2af.netlify.app/)
 
