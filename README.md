@@ -170,8 +170,8 @@
 <br>
 
 <div align="center">
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&theme=blue-green)  ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&layout=compact&theme=blue-green)](https://github.com/MariaRiosNavarro/github-readme-stats&theme=blue-green) ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
 
 </div>
 
