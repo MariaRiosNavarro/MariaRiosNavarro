@@ -207,7 +207,7 @@
 	
 - 🗣️ I speak fluent German and English. Spanish and Catalan are my mother tongues.
 
-<hr>
+
 
 
 
