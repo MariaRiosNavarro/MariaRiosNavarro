@@ -195,7 +195,7 @@
 <div align="center"><a href="https://freecodecamp.org/certification/Propscode/responsive-web-design" target="_blank">[Free Code Camp Certification]</a></div>
 
 
-<hr>
+
 
 -----------------------------------------------------------
 
