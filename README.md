@@ -89,7 +89,7 @@
 <table style="border-collapse: collapse;">
   <tbody>
     <tr style="border: none;">
-     <td  style="border: none;" align="center"> <table><tr><th><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-B9D2D2" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>Netlify</p><p>-Responsive-</p><p>Api Weather </p><p>and Location App</p><p>(english)</p></td></tr></table></td>
+     <td  style="border: none;" align="center"> <table><tr><th><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-8EBEFE" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>Netlify</p><p>-Responsive-</p><p>Api Weather </p><p>and Location App</p><p>(english)</p></td></tr></table></td>
      <td style="border: none;" align="center"> <table><tr><th><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a></th></tr><tr><td><p>NEXT + REACT + MONGO/ATLAS</p><p>Cloudinary + OPENAI + Vercel</p><p>-Mobile First-</p><p>Mobile OS</p><p>Simulation</p><p>(german)</p> </td></tr></table></td>
      <td style="border: none;" align="center"> <table><tr><th><a href="https://free-to-game-v0-2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Free%202%20game-FB4654" /></a></th></tr><tr><td><p>REACT+VITE+CSS</p><p>Vercel</p><p>-Desktop + Mobile-</p><p>Api Game Info Page</p><p>with LIGHT/DARK </p><p>mode (english)</p></td></tr></table></td>
     </tr>
