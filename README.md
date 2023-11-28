@@ -6,7 +6,7 @@
 
 
 <div align="center">
-	<a href="www.linkedin.com/in/mariariosnavarro" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/maria-rios-navarro-347b7779/" target= "_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </div>
 
 <div align="center">
