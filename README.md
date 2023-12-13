@@ -90,7 +90,7 @@
   <tbody>
     <tr style="border: none;">
      <td  style="border: none;" align="center"> <table><tr><th><a href="https://main--cool-vacherin-47a2af.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Weather%20now%20-8EBEFE" /></a></th></tr><tr><td><p>HTML + CSS + JS</p><p>Netlify</p><p>-Responsive-</p><p>Api Weather </p><p>and Location App</p><p>(english)</p></td></tr></table></td>
-     <td style="border: none;" align="center"> <table><tr><th><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a></th></tr><tr><td><p>NEXT + REACT + MONGO/ATLAS</p><p>Cloudinary + OPENAI + Vercel</p><p>-Mobile First-</p><p>Mobile OS</p><p>Simulation</p><p>(german)</p> </td></tr></table></td>
+      <td style="border: none;" align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App</p><p>with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
      <td style="border: none;" align="center"> <table><tr><th><a href="https://free-to-game-v0-2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Free%202%20game-FB4654" /></a></th></tr><tr><td><p>REACT+VITE+CSS</p><p>Vercel</p><p>-Desktop + Mobile-</p><p>Api Game Info Page</p><p>with LIGHT/DARK </p><p>mode (english)</p></td></tr></table></td>
     </tr>
     <tr style="border: none;">
@@ -104,7 +104,7 @@
       <td style="border: none;" align="center"> <table><tr><th><a href="https://luxury-cendol-5bf0c6.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20movies%20-A5CBB4" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND </p><p>DAISYUI + Netlify</p><p>-Mobile + Desktop-</p><p>Sorted-movies-app</p><p>(english)</p><p> </p></td></tr></table></td>
     </tr>
     <tr style="border: none;">
-      <td style="border: none;" align="center"> <table><tr><th><a href="https://simpletaskapp.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20tasks%20-65C4C7" /></a></th></tr><tr><td><p>REACT + VITE + TAILWIND</p><p>DAISYUI + RENDER</p><p>-Responsive-</p><p>To Do App</p><p>with LIGHT/DARK mode</p><p>(english)</p</td></tr></table></td>
+     <td style="border: none;" align="center"> <table><tr><th><a href="https://mobile-simulation-prop-os.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Prop%20OS%20-FAF0D7" /></a></th></tr><tr><td><p>NEXT + REACT + MONGO/ATLAS</p><p>Cloudinary + OPENAI + Vercel</p><p>-Mobile First-</p><p>Mobile OS</p><p>Simulation</p><p>(german)</p> </td></tr></table></td>
       <td style="border: none;" align="center"> <table><tr><th><a href="https://bank-app-rosy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PROPS%20bank%20-B9ECEB" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p> React Router + Vercel</p><p>-Responsive-</p><p>Bank App</p><p>(english)</p><p> </p><p> </p></td></tr></table></td>
       <td style="border: none;" align="center"> <table><tr><th><a href="https://landing-page-react-wine.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/We%20are%20glint-138000" /></a></th></tr><tr><td><p>REACT + VITE + SCSS</p><p>Vercel</p><p>-Mobile, Tablet, Desktop-</p><p>Landing Page</p><p>(english)</p><p> </p><p> </p></td></tr></table></td>
     </tr>
