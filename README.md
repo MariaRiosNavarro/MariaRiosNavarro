@@ -79,6 +79,24 @@
 </div>
 
 
+-----------------------------------------------------------
+
+<div align="center"> <h2>👩🏽‍💻Activity👩🏽‍💻</h2></div>
+
+<br>
+
+<br>
+
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&layout=compact&theme=blue-green)](https://github.com/MariaRiosNavarro/github-readme-stats&theme=blue-green) ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
+
+</div>
+
+-----------------------------------------------------------
+
+
+
 <br>
 
 
@@ -161,21 +179,7 @@
 
 
 
------------------------------------------------------------
 
-<div align="center"> <h2>👩🏽‍💻Activity👩🏽‍💻</h2></div>
-
-<br>
-
-<br>
-
-<div align="center">
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&layout=compact&theme=blue-green)](https://github.com/MariaRiosNavarro/github-readme-stats&theme=blue-green) ![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
-
-</div>
-
------------------------------------------------------------
 
 <div align="center"> <h2>📃Certification📃</h2></div>
 
