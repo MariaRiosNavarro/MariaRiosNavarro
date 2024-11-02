@@ -90,7 +90,7 @@
 
 <div align="center">
 	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&layout=compact&theme=blue-green&langs_count=8)![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRiosNavarro&layout=compact&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=MariaRiosNavarro&theme=blue-green)
 
 
 </div>
